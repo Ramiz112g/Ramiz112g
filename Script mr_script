@@ -1,0 +1,184 @@
+wait(0.1)
+game.StarterGui:SetCore("SendNotification", {
+    Title = "تم تفعيل";
+    Text = "تم تفعيل سكربت"; -- ARAB TEAM
+    Duration = 5;
+})
+
+
+
+
+
+
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("سكربت نادر", "DarkTheme")
+local Tab = Window:NewTab("سكربتات جميله")
+local Section = Tab:NewSection("سكربت تيليسكوب")
+Section:NewButton("تشغيل", "تشغيل", function()
+    print("Clicked")loadstring(game:HttpGet('https://pastebin.com/raw/8T0STS4f'))()
+end)
+
+
+local Section = Tab:NewSection("سكربت مراقبه")
+Section:NewButton("تشغيل", "تشغيل", function()
+    print("Clicked")loadstring(game:HttpGet('https://pastebin.com/raw/wyvdb7gr'))()
+end)
+
+
+local Section = Tab:NewSection("سكربت اختفاء")
+Section:NewButton("تشغيل", "تشغيل", function()
+    print("Clicked")loadstring(game:HttpGet('https://pastebin.com/raw/AYtzGEPb'))()
+end)
+
+
+local Section = Tab:NewSection("سكربت كاميرا")
+Section:NewButton("تشغيل", "تشغيل", function()
+   print("Clicked")loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/CCTV%20Camera'))()
+end)
+
+
+local Section = Tab:NewSection("سكربت طيران")
+Section:NewButton("تشغيل", "تشغيل", function()
+    print("Clicked")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro69Yes/sussy-Script/main/SecuredFlyGuiv3.lua'))()
+end)
+
+
+local Tab = Window:NewTab("hub سكربتات")
+local Section = Tab:NewSection("سكربت تحولات")
+Section:NewButton("تشغيل", "تشغيل", function()
+    print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Pendulum%20Hub%20V5.lua"))()
+end)
+
+
+local Section = Tab:NewSection("سكربت قوي")
+Section:NewButton("تشغيل", "تشغيل", function()
+    print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/Vcsk/AstralHub/main/Main.lua", true))()
+end)
+
+
+local Section = Tab:NewSection("سكربت مشفر عربي")
+Section:NewButton("تشغيل", "تشغيل", function()
+    print("Clicked")loadstring(game:HttpGet('https://pastebin.com/raw/E55ifaFJ'))()
+end)
+
+
+local Section = Tab:NewSection("سكربت قوي")
+Section:NewButton("تشغيل", "تشغيل", function()
+    print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/sxrge3k/sxrge_ssh_hub/main/sxrge_script_hub"))()
+
+end)
+
+
+local Tab = Window:NewTab("سكربت مابات")
+local Section = Tab:NewSection("سكربت ماب البيوت ")
+Section:NewButton("تشغيل", "تشغيل", function()
+    print("Clicked")loadstring(game:HttpGet('https://raw.githubusercontent.com/anyahubs/FE/main/ICEHUB_ARABIC'))()
+end)
+
+
+local Section = Tab:NewSection("سكربت ماب السيوف")
+Section:NewButton("تشغيل", "تشغيل", function()
+    print("Clicked")if game.PlaceId == 10659321502 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Abdullah16661/C0cAiNe/main/Sword%20War%20Steal%20Time'))()
+elseif game.PlaceId == 662417684 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Abdullah16661/C0cAiNe/main/LuckyBlocks.lua'))()
+elseif game.PlaceId == 5203883770 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Abdullah16661/C0cAiNe/main/HdAdmin.lua'))()
+elseif game.PlaceId == 9748064935 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Abdullah16661/C0cAiNe/main/Arabic%20Brookhaven.lua'))()
+elseif game.PlaceId == 9848789324 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Abdullah16661/C0cAiNe/main/RagdollEngine.lua'))()
+elseif game.PlaceId == 142823291 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Abdullah16661/C0cAiNe/main/MurderMystery.lua'))()
+end
+
+-- made by n0kia
+end)
+
+
+local Section = Tab:NewSection("سكربت ام ام تو")
+Section:NewButton("تشغيل ", "تشغيل ", function()
+    print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script", true))()
+end)
+
+
+local Section = Tab:NewSection("سكربت بلوكس فروتس")
+Section:NewButton("تشغيل", "تشغيل", function()
+    print("Clicked")loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
+end)
+
+
+local Section = Tab:NewSection("سكربت ماب دورس")
+Section:NewButton("تشغيل", "تشغيل", function()
+    print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNeRD0/Doors-Hack/main/DoorsV3_ByNerd.lua"))()
+end)
+
+
+local Tab = Window:NewTab("سكربتات نادره")
+local Section = Tab:NewSection("سكربت الوجه")
+Section:NewButton("تشغيل ", "تشغيل ", function()
+    print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/enrabiaaa/UnslaggerHub/main/RagdollEngine.lua"))()
+end)
+
+
+local Section = Tab:NewSection("سكربت نسخ قوي")
+Section:NewButton("تشغيل", "تشغيل ", function()
+    print("Clicked")loadstring(game:HttpGet("https://scriptblox.com/raw/Brookhaven-RP-REDz-HUB-6559"))()
+
+end)
+
+
+local Section = Tab:NewSection("سكربت بالدي بول")
+Section:NewButton("تشغيل", "تشغيل", function()
+    print("Clicked")oadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/main/AutoBlock"))()
+
+end)
+
+
+local Section = Tab:NewSection("سكربت ادمن")
+Section:NewButton("تشغيل", "تشغيل", function()
+    print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/BloodyBurns/Hex/main/Iv%20Admin%20v3.lua"))()
+end)
+
+
+local Tab = Window:NewTab("سكربتات ايم بوت")
+local Section = Tab:NewSection("سكربت ايم بوت اكثر من 200 ماب")
+Section:NewButton("تشغيل", "تشغيل", function()
+    print("Clicked")loadstring(game:HttpGet(('https://pastebin.com/raw/Kqa7bpXm')))()
+end)
+
+
+local Section = Tab:NewSection("سكربت ايم بوت مشفر")
+Section:NewButton("تشغيل", "تشغيل", function()
+    print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/BidoSkinsYT/BidoSkinsYT/main/BidoSkinshubV1.1"))()
+end)
+
+
+local Section = Tab:NewSection("سكربت ايم بوت جميع المابات")
+Section:NewButton("تشغيل ", "تشغيل", function()
+    print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/JNHHGaming/Kat12/main/Kat"))()
+
+end)
+
+
+local Section = Tab:NewSection("سكربت ايم بوت قتال العرب")
+Section:NewButton("تشغيل", "تشغيل", function()
+    print("Clicked")loadstring(game:HttpGet(('https://raw.githubusercontent.com/nn0kia/N0kia-script/main/Arab%20fight%20hub')))()
+
+end)
+
+
+local Tab = Window:NewTab("نط وسرعه")
+local Section = Tab:NewSection("نط وسرعه")
+
+Section:NewSlider("سرعه", "سرعه شخصيه", 500, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+end)
+
+
+Section:NewSlider("نط", "نط شخصيه", 500, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.jumpPower = s
+end) --ARAB TEAM--
+
+
